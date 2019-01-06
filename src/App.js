@@ -1,19 +1,17 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Workouts from './Workouts.js';
+import LandingPage from "./LandingPage.js"
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Week of DATE Workouts
-          </p>
-           <Workouts />
+            GymRat
         </header>
+        <body>
+            <LandingPage />
+        </body>
       </div>
     );
   }

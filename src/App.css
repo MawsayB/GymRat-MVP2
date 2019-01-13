@@ -19,6 +19,10 @@ background: #81007F
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 }
 
 .App-link {

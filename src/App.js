@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import LandingPage from "./LandingPage/LandingPage.js"
-import Header from "./HeaderMenu/HeaderMenu.js"
+import Header from "./Header/HeaderMenu.js"
 
 class App extends Component {
   render() {

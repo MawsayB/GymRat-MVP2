@@ -4,6 +4,8 @@ background: #81007F
 
 .App {
   text-align: center;
+  color: white;
+  font-size: 24px;
 }
 
 .App-logo {

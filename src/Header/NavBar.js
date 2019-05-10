@@ -12,21 +12,21 @@ function NavBar(props) {
             <ListItem component="div">
                 <ListItemText inset>
                     <TypoGraphy color="inherit" variant="title">
-                        Home
+                        About
                </TypoGraphy>
                 </ListItemText>
 
 
                 <ListItemText inset>
                     <TypoGraphy color="inherit" variant="title">
-                        Posts
+                        Sign Up
                </TypoGraphy>
                 </ListItemText>
 
 
                 <ListItemText inset>
                     <TypoGraphy color="inherit" variant="title">
-                        Contact
+                        Login
                </TypoGraphy>
                 </ListItemText>
             </ListItem >

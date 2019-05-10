@@ -21,8 +21,9 @@ class HeaderMenu extends Component {
             GymRat
          </TypoGraphy>
         </Toolbar>
+        <NavBar />
       </AppBar>
-//<NavBar />
+
 
     </div>
     );

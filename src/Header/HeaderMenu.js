@@ -15,16 +15,13 @@ class HeaderMenu extends Component {
     <div>
       <AppBar color="primary" position="static">
         <Toolbar>
-          <TypoGraphy variant="title"
-            color="inherit"
-          >
+            <TypoGraphy variant="title"
+            color="inherit">
             GymRat
-         </TypoGraphy>
+            </TypoGraphy>
+            <NavBar />
         </Toolbar>
-        <NavBar />
       </AppBar>
-
-
     </div>
     );
   }

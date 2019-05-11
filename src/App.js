@@ -10,7 +10,6 @@ class App extends Component {
         <Header />
         <body>
             <LandingPage />
-            <hr />
         </body>
       </div>
     );

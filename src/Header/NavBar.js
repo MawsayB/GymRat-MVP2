@@ -9,28 +9,25 @@ function NavBar(props) {
 
     return (
         <List component="nav">
-            <ListItem component="div">
+            <ListItem component="div" paddingLeft="25%">
                 <ListItemText inset>
-                    <TypoGraphy color="inherit" variant="title">
+                    <TypoGraphy color="inherit" variant="subheading">
                         About
-               </TypoGraphy>
+                    </TypoGraphy>
                 </ListItemText>
 
-
                 <ListItemText inset>
-                    <TypoGraphy color="inherit" variant="title">
+                    <TypoGraphy color="inherit" variant="subheading">
                         Sign Up
-               </TypoGraphy>
+                    </TypoGraphy>
                 </ListItemText>
 
-
                 <ListItemText inset>
-                    <TypoGraphy color="inherit" variant="title">
+                    <TypoGraphy color="inherit" variant="subheading">
                         Login
-               </TypoGraphy>
+                    </TypoGraphy>
                 </ListItemText>
             </ListItem >
-
         </List>
     )
 }

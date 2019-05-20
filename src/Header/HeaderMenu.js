@@ -19,7 +19,7 @@ class HeaderMenu extends Component {
             color="inherit">
             GymRat
             </TypoGraphy>
-            <NavBar />
+            <NavBar/>
         </Toolbar>
       </AppBar>
     </div>

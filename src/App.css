@@ -2,29 +2,10 @@
 background: #81007F
 }
 
-.App {
+* {
   text-align: center;
   color: white;
   font-size: 24px;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
-.App-header {
-  min-height: 10vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  float: left;
-  margin-left: 20px;
-  margin-top: 10px;
-  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 }
 
 .App-link {

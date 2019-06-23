@@ -8,7 +8,14 @@ class App extends Component {
         <body>
         <br />
             <form>
-              <label>Cardio: </label><br />
+            <strong><label>Muscle Group</label></strong><br />
+              <input type="radio" />Shoulders<br />
+              <input type="radio" />Back<br />
+              <input type="radio" />Chest<br />
+              <input type="radio" />Arms<br />
+              <input type="radio" />Legs<br /><br />
+
+              <strong><label>Cardio: </label></strong><br />
               <select 
                 name="cardio"
                 className="cardio"
